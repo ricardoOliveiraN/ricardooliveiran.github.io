@@ -1,0 +1,23 @@
+site_name: Ricardo de Oliveira Nicolau
+site_url: https://ricardoOliveiraN.github.io/ricardooliveira/
+theme:
+ name: material
+ language: pt
+ palete:
+  primary: indigo
+  accent: blue
+nav:
+ - Sobre mim: index.md
+ - Habilidades Técnicas: habilidades.md
+ - Experiências: experiencias.md
+ - Projetos: projetos.md
+ - Blog:
+    Introdução: blog/index.md
+ - Contato: contato.md
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.extra
+  - pymdownx.superfences
