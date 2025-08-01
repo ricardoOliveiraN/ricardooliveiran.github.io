@@ -1,5 +1,5 @@
 site_name: "Ricardo de Oliveira Nicolau"
-site_url: ricardooliveiran.github.io
+site_url: "https://ricardooliveiran.github.io/"
 use_directory_urls: true
 
 theme:
