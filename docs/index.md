@@ -6,7 +6,7 @@
 
 Olá! Me chamo **Ricardo de Oliveira Nicolau**, tenho **25 anos** e atualmente curso **Análise e Desenvolvimento de Sistemas** na **São Paulo Tech School**.
 
-No entanto, minha trajetória na tecnologia não começou de forma convencional. Durante dois anos estudei **Odontologia**, mas me sentia incompleto e distante do que realmente me movia. Foi nesse período autoconhecimento que percebi o quanto **criar**, **inovar** e **resolver problemas** sempre fizeram parte do que eu buscava para vida.
+No entanto, minha trajetória na tecnologia não começou de forma convencional. Durante dois anos estudei **Odontologia**, mas me sentia incompleto e distante do que realmente me movia. Foi nesse período de autoconhecimento que percebi o quanto **criar**, **inovar** e **resolver problemas** sempre fizeram parte do que eu buscava para vida.
 
 Foi assim que encontrei na **tecnologia** não apenas uma nova carreira, mas um propósito. Desde então, venho me dedicando de corpo e alma a aprender, construir soluções criativas e crescer tanto profissional quanto pessoalmente.
 

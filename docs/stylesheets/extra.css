@@ -1,0 +1,32 @@
+.md-footer {
+    display: none !important;
+}
+
+.custom-footer {
+    background: #4051b5;
+    color: #fff;
+    padding: 1.2rem;
+    text-align: center;
+    color: white;
+    padding: 1em 0;
+}
+
+.custom-footer a {
+    color: #fff;
+}
+
+.custom-footer .social-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.custom-footer .social-links a {
+    color: white;
+    margin: 0 10px;
+    font-size: 1.4em;
+}
+
+.custom-footer .social-links a:hover {
+    color: #4dabf7;
+}

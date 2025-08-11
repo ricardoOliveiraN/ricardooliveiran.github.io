@@ -8,14 +8,23 @@ theme:
   palette:
     primary: indigo
     accent: blue
+  custom_dir: overrides
+
+extra:
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:ricardo.o.nicolau@gmail.com
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ricardo-oliveira-084147312/
+    - icon: fontawesome/brands/github
+      link: https://github.com/ricardoOliveiraN
+  generator: false
 
 nav:
   - Sobre mim: index.md
   - Habilidades Técnicas: habilidades.md
   - Experiências: experiencias.md
   - Projetos: projetos.md
-  - Blog:
-      - Introdução: blog/index.md
   - Contato: contato.md
 
 markdown_extensions:
@@ -25,3 +34,16 @@ markdown_extensions:
       permalink: true
   - pymdownx.extra
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/js/all.min.js
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
+  - stylesheets/extra.css
+
